@@ -1,2 +1,7 @@
 @echo off
-echo gradlew dummy
+REM ##########################################################################
+REM
+REM  Gradle startup script for Windows
+REM
+REM ##########################################################################
+gradlew %*
